@@ -1,2 +1,6 @@
 brand,model,battery_kwh,range_km,charging_time_hr,price_inr,source_url
-Tata,Nexon EV,40,465,8,1500000,https://example.com
+Tata,Nexon EV,40,465,8,1500000,source
+MG,ZS EV,50.3,461,9,2300000,source
+Hyundai,Kona Electric,39.2,452,7,2400000,source
+Mahindra,XUV400,39.4,456,6.5,1800000,source
+BYD,Atto 3,60.5,521,10,3400000,source
