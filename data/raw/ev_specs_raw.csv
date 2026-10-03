@@ -1,6 +1,5 @@
-brand,model,battery_kwh,range_km,charging_time_hr,price_inr,source_url
-Tata,Nexon EV,40,465,8,1500000,source
-MG,ZS EV,50.3,461,9,2300000,source
-Hyundai,Kona Electric,39.2,452,7,2400000,source
-Mahindra,XUV400,39.4,456,6.5,1800000,source
-BYD,Atto 3,60.5,521,10,3400000,source
+brand,model,variant,battery_kwh,range_km,charging_time_hr,price_inr,price_type,currency,source_name,source_url,collected_at,source_priority,record_id,source_adapter
+Tata,Nexon EV,45 kWh,45.0,489,nan,1434000,ex_showroom,INR,Tata.ev,https://prod-ev.tatamotors.com/nexon/ev/specifications.html,2026-10-03T21:06:49.402998+00:00,1,tata|nexon ev|45 kwh,manufacturer
+Hyundai,Creta Electric,51.4 kWh Long Range,51.4,510,7.25,1802800,ex_showroom,INR,Hyundai India,https://www.hyundai.com/in/en/find-a-car/creta-electric/specification,2026-10-03T21:06:49.402970+00:00,2,hyundai|creta electric|51.4 kwh long range,manual
+Hyundai,Creta Electric,42 kWh,42.0,420,6.0,1802800,ex_showroom,INR,Hyundai India,https://www.hyundai.com/in/en/find-a-car/creta-electric/specification,2026-10-03T21:06:49.402970+00:00,2,hyundai|creta electric|42 kwh,manual
+MG,ZS EV,50.3 kWh,50.3,461,nan,1300000,ex_showroom,INR,MG Motor India,https://www.mgmotor.co.in/,2026-10-03T21:06:49.402970+00:00,2,mg|zs ev|50.3 kwh,manual
